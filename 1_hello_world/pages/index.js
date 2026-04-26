@@ -13,6 +13,11 @@ export default function Home() {
                     Produtos
                 </Link>
             </li>
+            <li>
+                <Link href="/about">
+                    Sobre
+                </Link>
+            </li>
         </ul>
             <h1> Hello World Next.js </h1>
         </div>
